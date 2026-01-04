@@ -1,8 +1,3 @@
-Below is a clean, senior-level, GitHub-ready README you can copy-paste directly.
-It is written to satisfy ATS, interviewers, and system-design reviewers—no buzzwords, no fake AI claims, fully defensible.
-
-I’ll include clear sections, diagrams (ASCII), and justification so anyone reading it immediately understands the depth.
-
 🧠 AI-Driven Adaptive Thread Pool (Java)
 
 A custom Java thread pool built from scratch (without java.util.concurrent) that learns from runtime behavior and dynamically optimizes task scheduling and thread concurrency using feedback-driven heuristics inspired by OS schedulers.
